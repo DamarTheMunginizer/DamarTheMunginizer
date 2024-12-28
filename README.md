@@ -15,7 +15,7 @@ Welcome to my GitHub portfolio! I'm a data enthusiast with a passion for analyti
   - Python, SQL, Data Wrangling, Machine Learning, Financial Analysis(Time series analysis), Visualization Tools(Tableau, Matplotlib, Seaborn, etc...).
 ---
 ## Projects
-- [Life Expectancy Analysis](#)
+- [Life Expectancy Analysis](https://github.com/DamarTheMunginizer/Life-Expectancy-Analysis)
    - Explored the relationship between population size and life expectancy using regression models to expose any trends.
 - [Ames Housing Data](#)
    - A regression (with Lasso Regularization) model to predict housing prices at the close of sell based on various features.
