@@ -21,7 +21,7 @@ Welcome to my GitHub portfolio! I'm a data enthusiast with a passion for analyti
    - A regression (with Lasso Regularization) model to predict housing prices at the close of sell based on various features.
 - [Reddit NLP Classifier](#)
    - Binary classifier to predict subreddit topics using NLP preprocessing (lemmatization, stop-word removal, vectorization).
-- [Income Probaility Prediction Hackathon(Collaboration Project)](#)
+- [Income Probaility Prediction Hackathon(Collaboration Project)](https://github.com/DamarTheMunginizer/Hackathon)
    -  Collaborated in a group of 5 to predict the probaility of someone making (<50K or >50K)(We were restricted to 1 model (Random Forest) but in our test we achieved 86% accuracy but on the actual data we were looking for we achived a 98% acuuracy.
 ## What I'm Working on
 - [Renewable Power Optimization for New York State(Collaboration Project)](#)
