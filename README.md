@@ -32,15 +32,15 @@ Welcome to my GitHub portfolio! I'm a data enthusiast with a passion for analyti
     - Techniques: Feature engineering, Machine Learning, Regression Based, Tree-Based, Time Series, and Custom Models.
 ---
 ## Tools & Technollogies
-- **Programming**: Python (Pandas, NumPy, Scikit-learn), SQL
-- **Data Visualization**: Matplotlib, Seaborn, Plotly
-- **Machine Learning**: Logistic Regression, Random Forest, ARIMA, NLP
+- **Programming**: Python (Pandas, NumPy, Scikit-learn), SQL, Statsmodels...
+- **Data Visualization**: Matplotlib, Seaborn, Plotly, Tableau...
+- **Machine Learning**: Logistic Regression, Random Forest, ARIMA, NLP, Support Vector Machine, PCA, DBSCAN, Trend and Seasonality, ROC_AUC Curve...
 - **Version Control**: Git, GitHub
   
 ---
 ## Let's Connect!
 - **LinkedIn**: [Damar Shipp Jr.](www.linkedin.com/in/damar-shipp-jr-614b71186)
-- **Portfolio**: [Coming Soon](#)
+- **Portfolio**: [Damars Work](https://github.com/DamarTheMunginizer)
 
 <!---
 DamarTheMunginizer/DamarTheMunginizer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
