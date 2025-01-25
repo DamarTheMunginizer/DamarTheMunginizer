@@ -39,7 +39,7 @@ Welcome to my GitHub portfolio! I'm a data enthusiast with a passion for analyti
 ---
 ## Let's Connect!
 - **LinkedIn**: [Damar Shipp Jr.](www.linkedin.com/in/damar-shipp-jr-614b71186)
-- **Portfolio**: [Damars Work](https://github.com/DamarTheMunginizer)
+- **Portfolio**: [Your Looking at It](https://github.com/DamarTheMunginizer)
 
 <!---
 DamarTheMunginizer/DamarTheMunginizer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
