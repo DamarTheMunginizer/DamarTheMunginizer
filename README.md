@@ -17,7 +17,7 @@ Welcome to my GitHub portfolio! I'm a data enthusiast with a passion for analyti
 ## Projects
 - [Life Expectancy Analysis](https://github.com/DamarTheMunginizer/Life-Expectancy-Analysis)
    - Explored the relationship between population size and life expectancy using regression models to expose any trends.
-- [Ames Housing Data](#)
+- [Ames Housing Data](https://github.com/DamarTheMunginizer/Ames-Housing-Price-Estimator)
    - A regression (with Lasso Regularization) model to predict housing prices at the close of sell based on various features.
 - [Reddit NLP Classifier](#)
    - Binary classifier to predict subreddit topics using NLP preprocessing (lemmatization, stop-word removal, vectorization).
