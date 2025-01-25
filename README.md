@@ -23,12 +23,9 @@ Welcome to my GitHub portfolio! I'm a data enthusiast with a passion for analyti
    - Binary classifier to predict subreddit topics using NLP preprocessing (lemmatization, stop-word removal, vectorization).
 - [Income Probaility Prediction Hackathon(Collaboration Project)](https://github.com/DamarTheMunginizer/Hackathon)
    -  Collaborated in a group of 5 to predict the probaility of someone making (<50K or >50K)(We were restricted to 1 model (Random Forest) but in our test we achieved 86% accuracy but on the actual data we were looking for we achived a 98% acuuracy.
-- [Renewable Power Optimization for New York State(Collaboration Project)](#)
+- [Renewable Power Optimization for New York State(Collaboration Project)](https://github.com/DamarTheMunginizer/New-York-State-Energy-Consumption)
     - Analyzed renewable energy options to recommend solutions that minimize carbon footprint and maximize energy production for the state.
 ## What I'm Working on
-- [Renewable Power Optimization for New York State(Collaboration Project)](#)
-    - Analyzed renewable energy options to recommend solutions that minimize carbon footprint and maximize energy production for the state.
-    - Techniques: Feature Engineering, Data Cleaning, Tree-Based Models, Linear Programming, Geospatial Analysis, Cost-Benefit Analysis, and visual tools like Tableau.
 - [Customer Lifetime Value(CLV)](#)
     - Build predictive models to estimate customer lifetime value for financial products.
     - Techniques: Feature engineering, Machine Learning, Regression Based, Tree-Based, Time Series, and Custom Models.
