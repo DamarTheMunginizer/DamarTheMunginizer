@@ -18,8 +18,8 @@ Welcome to my GitHub portfolio! I'm a data enthusiast with a passion for analyti
 - [Life Expectancy Analysis](https://github.com/DamarTheMunginizer/Life-Expectancy-Analysis)
    - Explored the relationship between population size and life expectancy using regression models to expose any trends.
 - [Ames Housing Data](https://github.com/DamarTheMunginizer/Ames-Housing-Price-Estimator)
-   - A regression (with Lasso Regularization) model to predict housing prices at the close of sell based on various features.
-- [Reddit NLP Classifier](#)
+   - A linear regression model to predict housing prices at the close of sell based on various features.
+- [Reddit NLP Classifier](https://github.com/DamarTheMunginizer/NLP-Binary-Classifier-Project)
    - Binary classifier to predict subreddit topics using NLP preprocessing (lemmatization, stop-word removal, vectorization).
 - [Income Probaility Prediction Hackathon(Collaboration Project)](https://github.com/DamarTheMunginizer/Hackathon)
    -  Collaborated in a group of 5 to predict the probaility of someone making (<50K or >50K)(We were restricted to 1 model (Random Forest) but in our test we achieved 86% accuracy but on the actual data we were looking for we achived a 98% acuuracy.
