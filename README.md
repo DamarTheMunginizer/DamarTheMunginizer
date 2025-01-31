@@ -1,11 +1,11 @@
 # Good Day! I'm Damar Shipp Jr., aka *The Munginizer*  
 ### 🌟 Turning raw data into insights and crafting dynamics solutions 🌟 
 
-Welcome to my GitHub portfolio! I'm a data enthusiast with a passion for analytics, machine learning, and solving complex problems. My work spans from data preprocessing and feature engineering to predictive modeling and eventually financial analytics.
+Welcome to my GitHub portfolio! I'm a data enthusiast with a passion for analytics, machine learning, and solving complex problems. My work spans from data preprocessing and feature engineering to predictive modeling.
 
 ## About Me
 - Education: 
-  - General Assembly Data Science Immersive Graduate (Capstone in Financial Analytics).
+  - General Assembly Data Science Immersive Graduate (Capstone on Loan default probability).
   - Pursuing a degree in Finance.
   - Certified in Machine Learning.
 - Experience: 
@@ -30,7 +30,7 @@ Welcome to my GitHub portfolio! I'm a data enthusiast with a passion for analyti
     - Build predictive models to estimate customer lifetime value for financial products.
     - Techniques: Feature engineering, Machine Learning, Regression Based, Tree-Based, Time Series, and Custom Models.
 ---
-## Tools & Technollogies
+## Tools & Technologies
 - **Programming**: Python (Pandas, NumPy, Scikit-learn), SQL, Statsmodels...
 - **Data Visualization**: Matplotlib, Seaborn, Plotly, Tableau...
 - **Machine Learning**: Logistic Regression, Random Forest, ARIMA, NLP, Support Vector Machine, PCA, DBSCAN, Trend and Seasonality, ROC_AUC Curve...
