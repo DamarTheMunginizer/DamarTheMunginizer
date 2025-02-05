@@ -43,7 +43,6 @@ Welcome to my GitHub portfolio! I'm a data enthusiast with a passion for analyti
   
 ---
 ## Let's Connect!
-- **LinkedIn**: [Damar Shipp Jr.](www.linkedin.com/in/damar-shipp-jr-614b71186)
 - **Portfolio**: [Your Looking at It](https://github.com/DamarTheMunginizer)
 
 <!---
