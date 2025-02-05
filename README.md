@@ -4,15 +4,15 @@
 Welcome to my GitHub portfolio! I'm a data enthusiast with a passion for analytics, machine learning, and driving data-based business decisions. My work spans from data preprocessing and collection to feature engineering to full model creation and monitoring.
 
 ## About Me
-- Education: 
-  - General Assembly Data Science Immersive Graduate (Capstone on Loan default probability).
-  - Associates Degree in Business Administration & Management.
-  - Pursuing a degree in Finance.
 - Experience: 
   - Former Military Logistics Manager with a knack for optimizing processes and resource allocation.
   - Newly identified and established passion in business and data-driven business decision-making.
 - Skills:
   - Python, SQL, Data Wrangling, Machine Learning, Visualization Tools (Tableau, Matplotlib, Seaborn, etc...), Data Collection, Model Evaluation & Validation, Feature Engineering and Finding Interpretation.
+- Education: 
+  - General Assembly Data Science Immersive Graduate (Capstone on Loan default probability).
+  - Associates Degree in Business Administration & Management.
+  - Pursuing a degree in Finance.
 ---
 ## Projects
 - [Life Expectancy Analysis](https://github.com/DamarTheMunginizer/Life-Expectancy-Analysis)
