@@ -1,16 +1,18 @@
 # Good Day! I'm Damar Shipp Jr., aka *The Munginizer*  
 ### 🌟 Turning raw data into insights and crafting dynamics solutions 🌟 
 
-Welcome to my GitHub portfolio! I'm a data enthusiast with a passion for analytics, machine learning, and driving data-based business decisions. My work spans from data preprocessing and collection to feature engineering to full model creation and monitoring.
+Welcome to my GitHub portfolio! I’m a data enthusiast who thrives on turning numbers into decisions, with a knack for analytics, process optimization, and financial efficiency. My projects range from data wrangling and visualization to building models that drive real-world impact.
 
 ## About Me
 - Experience: 
-  - Former Military Logistics Manager with a knack for optimizing processes and resource allocation.
-  - Newly identified and established passion in business and data-driven business decision-making.
+  - Former Military Logistics Manager with 4.5 years optimizing supply chains, saving $35K+ annually, and achieving 98%+ inspection      scores through data-driven solutions.
+  - Passionate about leveraging data to boost business performance and uncover cost-saving opportunities.
 - Skills:
-  - Python, SQL, Data Wrangling, Machine Learning, Visualization Tools (Tableau, Matplotlib, Seaborn, etc...), Data Collection, Model Evaluation & Validation, Feature Engineering and Finding Interpretation.
+  - Analytics & Tools: Python, SQL, Excel, Tableau, Matplotlib
+  - Data Expertise: Data Wrangling, Visualization, Trend Analysis, Feature Engineering
+  - Business Impact: Budget Forecasting, Resource Optimization, Predictive Modeling
 - Education: 
-  - General Assembly Data Science Immersive Graduate (Capstone on Loan default probability).
+  - General Assembly Data Science Immersive Graduate
   - Associates Degree in Business Administration & Management.
   - Pursuing a degree in Finance.
 ---
