@@ -5,7 +5,7 @@ Welcome to my GitHub portfolio! I’m a data enthusiast who thrives on turning n
 
 ## About Me
 - Experience: 
-  - Former Military Logistics Manager with 4.5 years optimizing supply chains, saving $35K+ annually, and achieving 98%+ inspection      scores through data-driven solutions.
+  - Former Military Logistics Manager with 5 years optimizing supply chains, saving $35K+ annually, and achieving 98%+ inspection scores through data-driven solutions.
   - Passionate about leveraging data to boost business performance and uncover cost-saving opportunities.
 - Skills:
   - Analytics & Tools: Python, SQL, Excel, Tableau, Matplotlib
