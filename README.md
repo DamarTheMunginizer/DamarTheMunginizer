@@ -1,20 +1,19 @@
 # Good Day! I'm Damar Shipp Jr., aka *The Munginizer*  
-### 🌟 Turning raw data into insights and crafting dynamics solutions 🌟 
+###  Turning raw data into insights and crafting dynamics solutions 
 
 Welcome to my GitHub portfolio! I’m a data enthusiast who thrives on turning numbers into decisions, with a knack for analytics, process optimization, and financial efficiency. My projects range from data wrangling and visualization to building models that drive real-world impact.
 
 ## About Me
-- Experience: 
-  - Former Military Logistics Manager with 5 years optimizing supply chains, saving $35K+ annually, and achieving 98%+ inspection scores through data-driven solutions.
-  - Passionate about leveraging data to boost business performance and uncover cost-saving opportunities.
-- Skills:
-  - Analytics & Tools: Python, SQL, Excel, Tableau, Matplotlib
-  - Data Expertise: Data Wrangling, Visualization, Trend Analysis, Feature Engineering
-  - Business Impact: Budget Forecasting, Resource Optimization, Predictive Modeling
-- Education: 
-  - General Assembly Data Science Immersive Graduate
-  - Associates Degree in Business Administration & Management.
-  - Pursuing a degree in Finance.
+- Experience:
+    - Financial Data Analyst with 5 years optimizing budgets, forecasting revenue, and uncovering $35K+ in annual savings through data-driven insights during my time as a U.S. Army Supply Sergeant.
+    - Proven track record transforming raw data into actionable financial strategies that improve operational efficiency and reduce costs.
+- Core Strengths:
+    - Finance & Strategy: Budget Forecasting, Variance Analysis, Cost Optimization, ROI Modeling, Resource Allocation
+    - Analytics & Tools: Python, SQL, Tableau, Excel (VLOOKUP, PivotTables), Matplotlib
+    - Modeling & Decision Support: Regression, Trend Analysis, KPI Dashboards
+- Education & Credentials:
+    - FP&A Certified | Data Science Immersive (GA) | Precision Bookkeeping Certified
+    - A.A. in Business Administration | B.S. in Finance (In Progress – UCF 2027)
 ---
 ### (Newest Project)
 - [Financial KPI Forecasting](https://github.com/DamarTheMunginizer/Financial-KPI-Forecasting)
@@ -52,6 +51,7 @@ Welcome to my GitHub portfolio! I’m a data enthusiast who thrives on turning n
 ---
 ## Let's Connect!
 - **Portfolio**: [Your Looking at It](https://github.com/DamarTheMunginizer)
+- **LinkeIN**: [LinkedIn](www.linkedin.com/in/damar-shipp-jr)
 
 <!---
 DamarTheMunginizer/DamarTheMunginizer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
