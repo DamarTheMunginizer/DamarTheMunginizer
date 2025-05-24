@@ -16,6 +16,11 @@ Welcome to my GitHub portfolio! I’m a data enthusiast who thrives on turning n
   - Associates Degree in Business Administration & Management.
   - Pursuing a degree in Finance.
 ---
+### (Newest Project)
+- [Financial KPI Forecasting](https://github.com/DamarTheMunginizer/Financial-KPI-Forecasting)
+    - Forecasting U.S. monthly retail sales through 2026 using ARIMA time series modeling on FRED macroeconomic data.
+    - Techniques: Exploratory Data Analysis (EDA), Stationarity Testing (ADF), Time Series Modeling (ARIMA),Forecasting with Confidence Intervals, Model Evaluation (AIC, Residuals, RMSE), Visualization & Business Interpretation
+---
 ## Projects
 - [Life Expectancy Analysis](https://github.com/DamarTheMunginizer/Life-Expectancy-Analysis)
    - Explored the relationship between population size and life expectancy using regression models to expose any trends.
@@ -32,6 +37,7 @@ Welcome to my GitHub portfolio! I’m a data enthusiast who thrives on turning n
 - [Renewable Power Optimization for New York State(Collaboration Project)](https://github.com/DamarTheMunginizer/New-York-State-Energy-Consumption)
     - Analyzed renewable energy options to recommend solutions that minimize carbon footprint and maximize energy production for the state.
     - Techniques: Data Collection, Data Munging, Feature Engineering, PCA, ETL, Correlation Analysis, Cost Analysis, K-Means Clustering, and Time Series K-Means Clustering
+      
 ## What I'm Working on
 - [Loan Default Probability and Customer Lifetime Value(CLV)](#)
     - Build predictive models to estimate the likelyhood of a customer defaulting on a loan and the lower probability customers lifetime value for cross-selling.
