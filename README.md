@@ -12,7 +12,7 @@ Welcome to my GitHub portfolio! I’m a data enthusiast who thrives on turning n
     - Analytics & Tools: Python, SQL, Tableau, Excel (VLOOKUP, PivotTables), Matplotlib
     - Modeling & Decision Support: Regression, Trend Analysis, KPI Dashboards
 - Education & Credentials:
-    - FP&A Certified | Data Science Immersive (GA) | Precision Bookkeeping Certified
+    - FP&A Certified | Data Science Immersive (General Assembly) | Precision Bookkeeping Certified
     - A.A. in Business Administration | B.S. in Finance (In Progress – UCF 2027)
 ---
 ### (Newest Project)
