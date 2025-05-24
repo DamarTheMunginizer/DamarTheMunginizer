@@ -51,7 +51,7 @@ Welcome to my GitHub portfolio! I’m a data enthusiast who thrives on turning n
 ---
 ## Let's Connect!
 - **Portfolio**: [Your Looking at It](https://github.com/DamarTheMunginizer)
-- **LinkeIN**: [LinkedIn](www.linkedin.com/in/damar-shipp-jr)
+- **LinkedIn**: (www.linkedin.com/in/damar-shipp-jr)
 
 <!---
 DamarTheMunginizer/DamarTheMunginizer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
