@@ -1,11 +1,11 @@
 # Good Day! I'm Damar Shipp Jr., aka *The Munginizer*  
 ###  Turning raw data into insights and crafting dynamics solutions 
 
-Welcome to my GitHub portfolio! I’m a data enthusiast who thrives on turning numbers into decisions, with a knack for analytics, process optimization, and financial efficiency. My projects range from data wrangling and visualization to building models that drive real-world impact.
+Welcome to my GitHub portfolio! I’m a data enthusiast who thrives on turning numbers into decisions, with a knack for analytics, process optimization, and financial efficiency. My projects range from data wrangling and visualization to building models that drive real-world insipred impacts.
 
 ## About Me
 - Experience:
-    - Financial Data Analyst with 5 years optimizing budgets, forecasting revenue, and uncovering $35K+ in annual savings through data-driven insights during my time as a U.S. Army Supply Sergeant.
+    - Financial Data Analyst with 5 years optimizing budgets, forecasting revenue, and uncovering $125.8K+ in annual savings through data-driven insights during my time as a contractor with the US Army as a Operations Financial Analyst.
     - Proven track record transforming raw data into actionable financial strategies that improve operational efficiency and reduce costs.
 - Core Strengths:
     - Finance & Strategy: Budget Forecasting, Variance Analysis, Cost Optimization, ROI Modeling, Resource Allocation
