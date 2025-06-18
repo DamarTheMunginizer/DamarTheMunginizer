@@ -4,16 +4,12 @@
 Welcome to my GitHub portfolio! I’m a data enthusiast who thrives on turning numbers into decisions, with a knack for analytics, process optimization, and financial efficiency. My projects range from data wrangling and visualization to building models that drive real-world inspired impacts.
 
 ## About Me
-- Experience:
-    - Financial Data Analyst with 5 years optimizing budgets, forecasting revenue, and uncovering $125.8K+ in annual savings through data-driven insights during my time as a contractor with the US Army as a Operations Financial Analyst.
-    - Proven track record transforming raw data into actionable financial strategies that improve operational efficiency and reduce costs.
-- Core Strengths:
-    - Finance & Strategy: Budget Forecasting, Variance Analysis, Cost Optimization, ROI Modeling, Resource Allocation
-    - Analytics & Tools: Python, SQL, Tableau, Excel (VLOOKUP, PivotTables), Matplotlib
-    - Modeling & Decision Support: Regression, Trend Analysis, KPI Dashboards
-- Education & Credentials:
-    - FP&A Certified | Data Science Immersive (General Assembly) | Precision Bookkeeping Certified
-    - A.A. in Business Administration | B.S. in Finance (In Progress – UCF 2027)
+**Operations-Finance Analyst turned Data Scientist & Financial Analyst**  
+5+ years managing $5M+ in assets as a U.S. Army Supply Manager  
+Cut $125.8K+ in costs through data-informed budget optimization  
+Bootcamp-trained at General Assembly (13 labs + 5 projects)  
+Built forecasting apps, stock visualizers, and financial dashboards using Python, Excel, and Tableau  
+B.S. in Finance (UCF 2027) | A.A. in Business Admin | FP&A + Data Science Certified
 ---
 ### (Newest Project)
 - [Financial KPI Forecasting](https://github.com/DamarTheMunginizer/Financial-KPI-Forecasting)
