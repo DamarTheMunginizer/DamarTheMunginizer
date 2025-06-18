@@ -5,11 +5,11 @@ Welcome to my GitHub portfolio! I’m a data enthusiast who thrives on turning n
 
 ## About Me
 **Operations-Finance Analyst turned Data Scientist & Financial Analyst**  
-5+ years managing $5M+ in assets as a U.S. Army Supply Manager  
-Cut $125.8K+ in costs through data-informed budget optimization  
-Bootcamp-trained at General Assembly (13 labs + 5 projects)  
-Built forecasting apps, stock visualizers, and financial dashboards using Python, Excel, and Tableau  
-B.S. in Finance (UCF 2027) | A.A. in Business Admin | FP&A + Data Science Certified
+- 5+ years managing $5M+ in assets as a U.S. Army Supply Manager  
+- Cut $125.8K+ in costs through data-informed budget optimization  
+- Bootcamp-trained at General Assembly (13 labs + 5 projects)  
+- Built forecasting apps, stock visualizers, and financial dashboards using Python, Excel, and Tableau  
+- B.S. in Finance (UCF 2027) | A.A. in Business Admin | FP&A + Data Science Certified
 ---
 ### (Newest Project)
 - [Financial KPI Forecasting](https://github.com/DamarTheMunginizer/Financial-KPI-Forecasting)
