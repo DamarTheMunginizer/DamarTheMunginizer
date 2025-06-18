@@ -39,16 +39,16 @@ Welcome to my GitHub! I’m a data-driven professional with a background in oper
     - Techniques: Data Collection, Data Munging, Feature engineering, Machine Learning, Regression Based, Tree-Based, and Custom Models.
 ---
 ## Tools & Technologies
-- **Programming**: Python (Pandas, NumPy, Scikit-learn), SQL, Statsmodels...
-- **Data Visualization**: Matplotlib, Seaborn, Plotly, Tableau...
-- **Machine Learning**: Logistic Regression, Random Forest, ARIMA, NLP, Support Vector Machine, PCA, DBSCAN, Trend and Seasonality, ROC_AUC Curve...
-- **Version Control**: Git, GitHub
+- **Programming:** Python (Pandas, NumPy, Scikit-learn, Statsmodels), SQL  
+- **Data Viz:** Tableau, Matplotlib, Seaborn, Streamlit  
+- **Modeling:** Logistic Regression, ARIMA, Clustering, NLP  
+- **Workflow:** Git, GitHub, Jupyter, Excel (Advanced), SAP 
   
 ---
 ## Let's Connect!
 - **Portfolio**: [You're Looking at It](https://github.com/DamarTheMunginizer)
-- **LinkedIn**: (www.linkedin.com/in/damar-shipp-jr)
-
+- **LinkedIn**: [LinkedIn](www.linkedin.com/in/damar-shipp-jr)
+Always open to collaborations and new opportunities!
 <!---
 DamarTheMunginizer/DamarTheMunginizer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
