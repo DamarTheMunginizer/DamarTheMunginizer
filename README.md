@@ -48,7 +48,7 @@ Welcome to my GitHub! I’m a data-driven professional with a background in oper
 ## Let's Connect!
 - **LinkedIn**: [LinkedIn](https://www.linkedin.com/in/damar-shipp-jr)
 - **Portfolio**: [You're Looking at It](https://github.com/DamarTheMunginizer)
-  - Always open to collaborations and new opportunities!
+  - Open to collaborations and new opportunities; ALWAYS!
 <!---
 DamarTheMunginizer/DamarTheMunginizer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
