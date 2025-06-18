@@ -1,4 +1,4 @@
-# Good Day! I'm Damar Shipp Jr., aka *The Munginizer*  
+# Damar Shipp Jr., - *The Munginizer*  
 ###  Turning raw data into insights and crafting dynamics solutions 
 
 Welcome to my GitHub! I’m a data-driven professional with a background in operations finance and a passion for turning complex data into clear, actionable insights. I specialize in forecasting, process optimization, and strategic reporting—built on a foundation of military precision and analytical thinking.
