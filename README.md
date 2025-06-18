@@ -1,7 +1,7 @@
 # Good Day! I'm Damar Shipp Jr., aka *The Munginizer*  
 ###  Turning raw data into insights and crafting dynamics solutions 
 
-Welcome to my GitHub portfolio! I’m a data enthusiast who thrives on turning numbers into decisions, with a knack for analytics, process optimization, and financial efficiency. My projects range from data wrangling and visualization to building models that drive real-world insipred impacts.
+Welcome to my GitHub portfolio! I’m a data enthusiast who thrives on turning numbers into decisions, with a knack for analytics, process optimization, and financial efficiency. My projects range from data wrangling and visualization to building models that drive real-world inspired impacts.
 
 ## About Me
 - Experience:
@@ -39,7 +39,7 @@ Welcome to my GitHub portfolio! I’m a data enthusiast who thrives on turning n
       
 ## What I'm Working on
 - [Loan Default Probability and Customer Lifetime Value(CLV)](#)
-    - Build predictive models to estimate the likelyhood of a customer defaulting on a loan and the lower probability customers lifetime value for cross-selling.
+    - Build predictive models to estimate the likelihood of a customer defaulting on a loan and the lower probability customers lifetime value for cross-selling.
     - Techniques: Data Collection, Data Munging, Feature engineering, Machine Learning, Regression Based, Tree-Based, and Custom Models.
 ---
 ## Tools & Technologies
@@ -50,7 +50,7 @@ Welcome to my GitHub portfolio! I’m a data enthusiast who thrives on turning n
   
 ---
 ## Let's Connect!
-- **Portfolio**: [Your Looking at It](https://github.com/DamarTheMunginizer)
+- **Portfolio**: [You're Looking at It](https://github.com/DamarTheMunginizer)
 - **LinkedIn**: (www.linkedin.com/in/damar-shipp-jr)
 
 <!---
